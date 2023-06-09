@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "396171310401",
+    "project_id": "ev-chargers-27347",
+    "storage_bucket": "ev-chargers-27347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396171310401:android:2801722059f1fd928b1dc0",
+        "android_client_info": {
+          "package_name": "com.example.ev_charger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396171310401-nsh504shsmsddgqedu5pnpq79180sujb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hAeWb0rkG1l431pQkALU4OG9BNUnKa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396171310401-nsh504shsmsddgqedu5pnpq79180sujb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396171310401-vrp383qeg0bc6vjvb940gt7lpotndjq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evCharger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396171310401:android:2061c4f2ad1b87558b1dc0",
+        "android_client_info": {
+          "package_name": "com.example.evcharger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396171310401-nsh504shsmsddgqedu5pnpq79180sujb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hAeWb0rkG1l431pQkALU4OG9BNUnKa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396171310401-nsh504shsmsddgqedu5pnpq79180sujb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396171310401-vrp383qeg0bc6vjvb940gt7lpotndjq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evCharger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
